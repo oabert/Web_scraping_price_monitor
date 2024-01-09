@@ -5,7 +5,6 @@ import smtplib, ssl
 import os
 
 URL = 'https://www.premier1supplies.com/p/permanet-plus-48-inch-starter-kit?cat_id=190'
-# URL = 'http://programmer100.pythonanywhere.com/tours/'
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
