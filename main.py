@@ -29,7 +29,7 @@ def send_email(message):
     port = 465
 
     sender = 'rbn.leona@gmail.com'
-    # password = os.getenv('qucmmgmmidyzauuw')
+
     password = os.getenv('PASSWORD_LEONA')
     print(password)
     receiver = 'rbn.leona@gmail.com'
