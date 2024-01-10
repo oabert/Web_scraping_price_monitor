@@ -1,3 +1,4 @@
 price:
   css: '#main-content > section > div.product-details-and-actions > form > ul > li:nth-child(1) > div > div.product-variation-column-price-and-actions.col-xs-4.col-sm-3.col-md-3.col-lg-3 > div > span'
-#    css: '"class": "product-price"'
+item_id:
+  css: '#main-content > section > div.product-details-and-actions > form > ul > li:nth-child(1) > div > div.product-variation-column-info.col-xs-8.col-sm-9.col-md-9.col-lg-9 > div.product-sku-and-more > span:nth-child(1)'
